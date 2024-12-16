@@ -1,0 +1,607 @@
+{
+    "data": {
+        "id": 1,
+        "documentId": "kd55qedf42xqrdc9n4fpazec",
+        "name": "Ahmed Mabrouk",
+        "currentJobTitle": "Front-end Developer",
+        "heroDescription": "A skilled flutter developer with 1 year of experience, you can contact me at any time to start a work full of creativity and good performance",
+        "footerText": "Designed By Mohammad Al Azmeh Devepment by Ahmed Mabrouk",
+        "contactSectionDescription": "I'm currently looking to join a cross-functional team that values improving people's lives through accessible design. or have a project in mind? Let's connect.",
+        "resumeUrl": "https://drive.google.com/file/d/19GOsY6AfPsUSU0Q8UvGuZ8lrNHHRE5wI/view?usp=sharing",
+        "mySkillDescription": [
+            {
+                "id": 1,
+                "description": "- Experience more than 1 Year.",
+                "my_skill": {
+                    "id": 1,
+                    "documentId": "teqfuoxwx04d1x861kg7jf4l",
+                    "skillName": "Flutter",
+                    "skillImage": {
+                        "id": 8,
+                        "documentId": "wac5q5ne68zqd35fp3t1b21m",
+                        "name": "flutter_logo_icon.svg",
+                        "url": "assets/icons/skills/flutter_logo_icon.svg"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "description": "-",
+                "my_skill": {
+                    "id": 2,
+                    "documentId": "dmh68rkazgzzdt2wfe594cys",
+                    "skillName": "Dart",
+                    "skillImage": {
+                        "id": 9,
+                        "documentId": "t1kv85qrl162kevxd9vlr5io",
+                        "url": "assets/icons/skills/dart_logo_icon.svg"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "description": "-",
+                "my_skill": {
+                    "id": 3,
+                    "documentId": "e2sfkwfeghvnywkdunt7qt4p",
+                    "skillName": "Figma",
+                    "skillImage": {
+                        "id": 10,
+                        "documentId": "h93g1wv6tqlg6aczuee4nkdw",
+                        "name": "figma_logo_icon.svg",
+                        "url": "assets/icons/skills/figma_logo_icon.svg"
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "description": "-",
+                "my_skill": {
+                    "id": 4,
+                    "documentId": "hew68i20f1qe4tas2xoem4rk",
+                    "skillName": "Git",
+                    "skillImage": {
+                        "id": 11,
+                        "documentId": "mml4mfeb9xpecsigv6mwbjfi",
+                        "url": "assets/icons/skills/git_logo_icon.svg"
+                    }
+                }
+            },
+            {
+                "id": 5,
+                "description": "-",
+                "my_skill": {
+                    "id": 7,
+                    "documentId": "kkh3haezbzo7ncy0mfae4210",
+                    "skillName": "Postman",
+                    "skillImage": {
+                        "id": 14,
+                        "documentId": "zys1m6re5zrzfq9ze50u1lbf",
+                        "url": "assets/icons/skills/postman_icon.svg"
+                    }
+                }
+            },
+            {
+                "id": 6,
+                "description": "- Basic knowledge.",
+                "my_skill": {
+                    "id": 6,
+                    "documentId": "ornh1m3qzngfw7lns1jhfl7v",
+                    "skillName": "Node JS",
+                    "skillImage": {
+                        "id": 13,
+                        "documentId": "fcfxqrm67anxzx9olmisrgps",
+                        "url": "assets/icons/skills/node-js_logo_icon.svg"
+                    }
+                }
+            },
+            {
+                "id": 7,
+                "description": "- Basic knowledge.",
+                "my_skill": {
+                    "id": 5,
+                    "documentId": "cn8k9du2gu6lc7e1r9mx0ron",
+                    "skillName": "Python",
+                    "skillImage": {
+                        "id": 12,
+                        "documentId": "sxj0m2mce9dwe56lrw3tjo4l",
+                        "url": "assets/icons/skills/python_logo_icon.svg"
+                    }
+                }
+            }
+        ],
+        "contact_info": [
+            {
+                "id": 1,
+                "contactUrl": "+201000063140",
+                "contact_data": {
+                    "id": 1,
+                    "documentId": "swxuh1thot3tic5hzreitnnf",
+                    "contactName": "Phone Number ",
+                    "isSocial": false,
+                    "conatactIcon": {
+                        "id": 1,
+                        "documentId": "esuwecc2h4nyqxvids20cxmb",
+                        "url": "assets/icons/contact/call_icon.svg"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "contactUrl": " ahmedmabrouk3394@gmail.com",
+                "contact_data": {
+                    "id": 2,
+                    "documentId": "qd3z0zudtc7pgu90v5owjoig",
+                    "contactName": "email",
+                    "isSocial": false,
+                    "conatactIcon": {
+                        "id": 2,
+                        "documentId": "eya40a1b66ualo3laxptwdgm",
+                        "name": "email_icon.svg",
+                        "url": "assets/icons/contact/email_icon.svg"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "contactUrl": "https://www.linkedin.com/in/ahmed-mabrouk3394/",
+                "contact_data": {
+                    "id": 5,
+                    "documentId": "h7cjem6epasqaj6vh20ne5w8",
+                    "contactName": "linkedIn",
+                    "isSocial": true,
+                    "conatactIcon": {
+                        "id": 5,
+                        "documentId": "ho0xs6bqea436xrm9jniect9",
+                        "name": "linkedIn_icon.svg",
+                        "url": "assets/icons/contact/linkedIn_icon.svg"
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "contactUrl": "https://www.github.com/AhmedMabrouk33",
+                "contact_data": {
+                    "id": 3,
+                    "documentId": "ugi6gqu3c7rmvketgsvdw0kc",
+                    "contactName": "Github",
+                    "isSocial": true,
+                    "conatactIcon": {
+                        "id": 3,
+                        "documentId": "v7sbzxs7jscqwwg2bznbcczc",
+                        "name": "github_icon.svg",
+                        "url": "assets/icons/contact/github_icon.svg"
+                    }
+                }
+            }
+        ],
+        "myExperience": [
+            {
+                "id": 1,
+                "companyName": "Technology Innovators {TI}",
+                "isFullTime": true,
+                "isPresent": false,
+                "startDate": "2024-12-01",
+                "endDate": "2024-11-01",
+                "jonTitle": "Flutter developer",
+                "ExperiencePoints": [
+                    {
+                        "id": 21,
+                        "pointTitle": null,
+                        "pointDescription": "Development Mobile application, websites, and landing page.",
+                        "isSkill": null
+                    },
+                    {
+                        "id": 22,
+                        "pointTitle": null,
+                        "pointDescription": "Used Restful API",
+                        "isSkill": null
+                    },
+                    {
+                        "id": 23,
+                        "pointTitle": null,
+                        "pointDescription": "Use Getx controller almost time",
+                        "isSkill": null
+                    },
+                    {
+                        "id": 24,
+                        "pointTitle": null,
+                        "pointDescription": "Use Design Pattern MVVM",
+                        "isSkill": null
+                    }
+                ],
+                "experienceskills": [
+                    {
+                        "id": 1,
+                        "pointTitle": "Flutter",
+                        "pointDescription": "-",
+                        "isSkill": true
+                    },
+                    {
+                        "id": 8,
+                        "pointTitle": "MVVM",
+                        "pointDescription": "-",
+                        "isSkill": true
+                    },
+                    {
+                        "id": 9,
+                        "pointTitle": "Getx",
+                        "pointDescription": "-",
+                        "isSkill": true
+                    },
+                    {
+                        "id": 10,
+                        "pointTitle": "Restful API",
+                        "pointDescription": "-",
+                        "isSkill": true
+                    },
+                    {
+                        "id": 11,
+                        "pointTitle": "Git",
+                        "pointDescription": "-",
+                        "isSkill": true
+                    }
+                ],
+                "companyImage": {
+                    "id": 16,
+                    "documentId": "ftkbxq5ezg77trmo9o6mwj6d",
+                    "name": "image_ti_logo.png",
+                    "url": "assets/images/image_ti_logo.png"
+                }
+            },
+            {
+                "id": 2,
+                "companyName": "Technology Innovators {TI}",
+                "isFullTime": true,
+                "isPresent": false,
+                "startDate": "2022-06-01",
+                "endDate": "2023-12-01",
+                "jonTitle": "Intern Flutter developer",
+                "ExperiencePoints": [
+                    {
+                        "id": 12,
+                        "pointTitle": null,
+                        "pointDescription": "Developed a cross-platform mobile application for e-commerce using Flutter and Starpi",
+                        "isSkill": null
+                    },
+                    {
+                        "id": 13,
+                        "pointTitle": null,
+                        "pointDescription": "Implemented features such as user authentication, product catalog, shopping cart, and checkout.",
+                        "isSkill": null
+                    },
+                    {
+                        "id": 14,
+                        "pointTitle": null,
+                        "pointDescription": "Applied Material Design principles and widgets to create a responsive and attractive UI.",
+                        "isSkill": null
+                    },
+                    {
+                        "id": 15,
+                        "pointTitle": null,
+                        "pointDescription": "Collaborated with other developers and stakeholders using Agile methodologies and tools such as GitHub.",
+                        "isSkill": null
+                    }
+                ],
+                "experienceskills": [
+                    {
+                        "id": 3,
+                        "pointTitle": "Flutter",
+                        "pointDescription": "-",
+                        "isSkill": true
+                    },
+                    {
+                        "id": 4,
+                        "pointTitle": "Git",
+                        "pointDescription": "-",
+                        "isSkill": true
+                    },
+                    {
+                        "id": 5,
+                        "pointTitle": "Strapi",
+                        "pointDescription": "-",
+                        "isSkill": true
+                    }
+                ],
+                "companyImage": {
+                    "id": 16,
+                    "documentId": "ftkbxq5ezg77trmo9o6mwj6d",
+                    "name": "image_ti_logo.png",
+                    "url": "assets/images/image_ti_logo.png"
+                }
+            },
+            {
+                "id": 3,
+                "companyName": "Energy Management {EM}",
+                "isFullTime": true,
+                "isPresent": false,
+                "startDate": "2018-08-01",
+                "endDate": "2023-06-01",
+                "jonTitle": "Electrical Maintenance Engineer",
+                "ExperiencePoints": [
+                    {
+                        "id": 16,
+                        "pointTitle": null,
+                        "pointDescription": "Install and maintain UPS, in multinational companies {Central Bank of Egypt,  Cairo Airport Company, CIB, BDC, Midor,  Americana Plaza}.",
+                        "isSkill": null
+                    },
+                    {
+                        "id": 17,
+                        "pointTitle": null,
+                        "pointDescription": "Responding to customer call-outs, Servicing and replacing old or faulty equipment, troubleshooting equipment malfunctions, Install and upgrade new machines and systems as per client specifications.",
+                        "isSkill": null
+                    },
+                    {
+                        "id": 18,
+                        "pointTitle": null,
+                        "pointDescription": "Scheduled and undertook periodic maintenance on all electrical installations, components, and equipment.",
+                        "isSkill": null
+                    },
+                    {
+                        "id": 19,
+                        "pointTitle": null,
+                        "pointDescription": "Reviewed technical documentation to complete equipment maintenance and repair.",
+                        "isSkill": null
+                    },
+                    {
+                        "id": 20,
+                        "pointTitle": null,
+                        "pointDescription": "Wrote and revised maintenance procedures.",
+                        "isSkill": null
+                    }
+                ],
+                "experienceskills": [
+                    {
+                        "id": 6,
+                        "pointTitle": "Elctrical",
+                        "pointDescription": "-",
+                        "isSkill": true
+                    },
+                    {
+                        "id": 7,
+                        "pointTitle": "Electronics",
+                        "pointDescription": "-",
+                        "isSkill": true
+                    }
+                ],
+                "companyImage": {
+                    "id": 17,
+                    "documentId": "sa3j2tyfxnx323acz5w18bc9",
+                    "name": "image_energy-management_logo.jpg",
+                    "url": "assets/images/image_energy-management_logo.jpg"
+                }
+            }
+        ],
+        "myProjects": [
+            {
+                "id": 1,
+                "projectName": "Aqari Dashboard",
+                "projectDescription": "The Aqari Dashboard is a robust administrative tool designed to streamline data management for a diverse range of applications, including client and provider mobile apps, a landing page, and various in-app features.",
+                "conclusion": null,
+                "sectionHeader": [
+                    {
+                        "id": 3,
+                        "headerTitle": "Key Features",
+                        "porjectSectionPoints": [
+                            {
+                                "id": 26,
+                                "pointTitle": "Responsive Design",
+                                "pointDescription": "Ensures seamless user experience across all devices.",
+                                "isSkill": null
+                            },
+                            {
+                                "id": 27,
+                                "pointTitle": "Secure User Authentication",
+                                "pointDescription": "Requires admin login for data access and modification.",
+                                "isSkill": null
+                            },
+                            {
+                                "id": 28,
+                                "pointTitle": "Client Data Management",
+                                "pointDescription": "Enables viewing, editing, and deleting client information.",
+                                "isSkill": null
+                            },
+                            {
+                                "id": 29,
+                                "pointTitle": "Landing Page Content Management",
+                                "pointDescription": "Allows for dynamic updates to landing page content.",
+                                "isSkill": null
+                            },
+                            {
+                                "id": 30,
+                                "pointTitle": "Real Estate Data Management",
+                                "pointDescription": "Facilitates the addition, editing, and removal of real estate listings.",
+                                "isSkill": null
+                            },
+                            {
+                                "id": 31,
+                                "pointTitle": "Employer Management",
+                                "pointDescription": "Permits the viewing and removal of employer information.",
+                                "isSkill": null
+                            },
+                            {
+                                "id": 32,
+                                "pointTitle": "Ad Management",
+                                "pointDescription": "Supports the creation, editing, and resending of targeted ads to clients.",
+                                "isSkill": null
+                            },
+                            {
+                                "id": 33,
+                                "pointTitle": "Direct Message Management",
+                                "pointDescription": "Enables the creation, editing, and deletion of direct messages, with options for SMS, notification, or WhatsApp delivery to individual or group recipients.",
+                                "isSkill": null
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "headerTitle": "Technologies Used",
+                        "porjectSectionPoints": [
+                            {
+                                "id": 34,
+                                "pointTitle": "Flutter",
+                                "pointDescription": "The core framework for building the cross-platform application.",
+                                "isSkill": true
+                            },
+                            {
+                                "id": 35,
+                                "pointTitle": "GetX",
+                                "pointDescription": "A state management solution for efficient data flow and navigation.",
+                                "isSkill": true
+                            },
+                            {
+                                "id": 36,
+                                "pointTitle": "Dio",
+                                "pointDescription": "A powerful HTTP client for making network requests to the backend.",
+                                "isSkill": true
+                            },
+                            {
+                                "id": 37,
+                                "pointTitle": "Figma",
+                                "pointDescription": "The design tool used to create the user interface.",
+                                "isSkill": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "headerTitle": "Technical Challenges and Solutions",
+                        "porjectSectionPoints": [
+                            {
+                                "id": 38,
+                                "pointTitle": "Performance Optimization",
+                                "pointDescription": "1.  Implemented screen optimization techniques to minimize memory usage and improve load times.\n2. Optimized network requests by strategically fetching data only when necessary.\n3. Created custom widgets to reduce code redundancy and improve performance.\n4.  Developed a custom Dio class to tailor network requests to specific application needs.",
+                                "isSkill": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "projectName": "Aqari Landing Page",
+                "projectDescription": "Developed a visually appealing and responsive landing page for Aqari using Flutter and GetX state management. The page showcases the company's core offerings, highlighting key partnerships and providing easy access to the mobile application.",
+                "conclusion": "By combining these technologies and addressing the technical challenges, we were able to deliver a high-quality landing page that effectively represents the Aqari brand and drives user engagement.",
+                "sectionHeader": [
+                    {
+                        "id": 6,
+                        "headerTitle": "Key Features",
+                        "porjectSectionPoints": [
+                            {
+                                "id": 39,
+                                "pointTitle": "Intuitive User Interface",
+                                "pointDescription": "Implemented a user-friendly design that mirrors the provided Figma design, ensuring a seamless user experience.",
+                                "isSkill": null
+                            },
+                            {
+                                "id": 40,
+                                "pointTitle": "Responsive Design",
+                                "pointDescription": "Optimized the layout to adapt to various screen sizes, providing a consistent experience across devices.",
+                                "isSkill": null
+                            },
+                            {
+                                "id": 41,
+                                "pointTitle": "Efficient State Management",
+                                "pointDescription": "Utilized GetX to manage complex state interactions and improve application performance.",
+                                "isSkill": null
+                            },
+                            {
+                                "id": 42,
+                                "pointTitle": "API Integration",
+                                "pointDescription": "Leveraged the Dio package to communicate with backend services, enabling dynamic content updates and user interactions.",
+                                "isSkill": null
+                            },
+                            {
+                                "id": 43,
+                                "pointTitle": "Smooth Animations and Interactions",
+                                "pointDescription": "Implemented engaging animations and hover effects to enhance user engagement and visual appeal.",
+                                "isSkill": null
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "headerTitle": "Technical Challenges and Solutions",
+                        "porjectSectionPoints": [
+                            {
+                                "id": 44,
+                                "pointTitle": "Complex Design Implementation",
+                                "pointDescription": "Successfully translated the intricate Figma design into clean and efficient Flutter code, ensuring pixel-perfect accuracy.",
+                                "isSkill": null
+                            },
+                            {
+                                "id": 45,
+                                "pointTitle": "Performance Optimization",
+                                "pointDescription": "Optimized the rendering pipeline to minimize frame drops and maintain smooth animations, especially during hover and interaction events.",
+                                "isSkill": null
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "headerTitle": "Technologies Used",
+                        "porjectSectionPoints": [
+                            {
+                                "id": 46,
+                                "pointTitle": "Flutter",
+                                "pointDescription": "Cross-platform app development framework",
+                                "isSkill": true
+                            },
+                            {
+                                "id": 47,
+                                "pointTitle": "GetX",
+                                "pointDescription": "State management solution",
+                                "isSkill": true
+                            },
+                            {
+                                "id": 48,
+                                "pointTitle": "Dio",
+                                "pointDescription": "A powerful HTTP client for making network requests to the backend.",
+                                "isSkill": true
+                            },
+                            {
+                                "id": 49,
+                                "pointTitle": "Figma",
+                                "pointDescription": "Design tool for UI/UX",
+                                "isSkill": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "aboutMeSection": [
+            {
+                "id": 1,
+                "headerTitle": "“About Me”",
+                "porjectSectionPoints": [
+                    {
+                        "id": 2,
+                        "pointTitle": null,
+                        "pointDescription": "- I'm a skilled Flutter developer passionate about creating innovative mobile apps.\n- My expertise lies in designing user-friendly interfaces and writing efficient code.\n- I stay updated on industry trends and i am excellent at problem-solving, ensuring top-notch applications that impress users.\n- I'm dedicated to sculpting innovative, user-centric solutions that breathe life into every pixel.",
+                        "isSkill": null
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "headerTitle": "“Personality”",
+                "porjectSectionPoints": [
+                    {
+                        "id": 25,
+                        "pointTitle": null,
+                        "pointDescription": "- I’m a social person who likes to work with a team and be collaborative.\n- I like to deal with honesty and transparency in order to gain the people around me.\n- I am passionate about my work and love creativity and constant learning, \n- You can tell when you get to know me",
+                        "isSkill": null
+                    }
+                ]
+            }
+        ],
+        "logo": {
+            "id": 15,
+            "documentId": "nu1gwe8pi9zpkt8deg5784rv",
+            "name": "splash_screen_logo_image.png",
+            "url": "assets/icons/ahmed_mabrouk_portfolio_image.png"
+        }
+    },
+    "meta": {}
+}
