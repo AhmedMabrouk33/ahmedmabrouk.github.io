@@ -181,7 +181,7 @@
                 "companyName": "Technology Innovators {TI}",
                 "isFullTime": true,
                 "isPresent": false,
-                "startDate": "2024-12-01",
+                "startDate": "2023-12-01",
                 "endDate": "2024-11-01",
                 "jonTitle": "Flutter developer",
                 "ExperiencePoints": [
@@ -215,31 +215,31 @@
                         "id": 1,
                         "pointTitle": "Flutter",
                         "pointDescription": "-",
-                        "isSkill": true
+                        "isSkill": null
                     },
                     {
                         "id": 8,
                         "pointTitle": "MVVM",
                         "pointDescription": "-",
-                        "isSkill": true
+                        "isSkill": null
                     },
                     {
                         "id": 9,
                         "pointTitle": "Getx",
                         "pointDescription": "-",
-                        "isSkill": true
+                        "isSkill": null
                     },
                     {
                         "id": 10,
                         "pointTitle": "Restful API",
                         "pointDescription": "-",
-                        "isSkill": true
+                        "isSkill": null
                     },
                     {
                         "id": 11,
                         "pointTitle": "Git",
                         "pointDescription": "-",
-                        "isSkill": true
+                        "isSkill": null
                     }
                 ],
                 "companyImage": {
@@ -254,7 +254,7 @@
                 "companyName": "Technology Innovators {TI}",
                 "isFullTime": true,
                 "isPresent": false,
-                "startDate": "2022-06-01",
+                "startDate": "2023-06-01",
                 "endDate": "2023-12-01",
                 "jonTitle": "Intern Flutter developer",
                 "ExperiencePoints": [
@@ -288,19 +288,19 @@
                         "id": 3,
                         "pointTitle": "Flutter",
                         "pointDescription": "-",
-                        "isSkill": true
+                        "isSkill": null
                     },
                     {
                         "id": 4,
                         "pointTitle": "Git",
                         "pointDescription": "-",
-                        "isSkill": true
+                        "isSkill": null
                     },
                     {
                         "id": 5,
                         "pointTitle": "Strapi",
                         "pointDescription": "-",
-                        "isSkill": true
+                        "isSkill": null
                     }
                 ],
                 "companyImage": {
@@ -312,7 +312,7 @@
             },
             {
                 "id": 3,
-                "companyName": "Energy Management {EM}",
+                "companyName": "Electric Solution Company",
                 "isFullTime": true,
                 "isPresent": false,
                 "startDate": "2018-08-01",
@@ -355,13 +355,13 @@
                         "id": 6,
                         "pointTitle": "Elctrical",
                         "pointDescription": "-",
-                        "isSkill": true
+                        "isSkill": null
                     },
                     {
                         "id": 7,
                         "pointTitle": "Electronics",
                         "pointDescription": "-",
-                        "isSkill": true
+                        "isSkill": null
                     }
                 ],
                 "companyImage": {
